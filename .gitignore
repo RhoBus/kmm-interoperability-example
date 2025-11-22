@@ -26,7 +26,6 @@ local.properties
 *.jpeg
 *.gif
 *.svg
-*.webp
 *.pdf
 *.doc
 *.docx
